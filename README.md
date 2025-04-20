@@ -1,4 +1,8 @@
-Here's a complete guide to set up and run the project in VSCode or any other development environment:
+If you wanna just jump straight into it download expo go on ios and click this link
+
+https://mindmates-mood-and-strength-adventure.rork.art
+
+Complete guide to set up and run the project in VSCode or any other development environment:
 
 ## Prerequisites
 
