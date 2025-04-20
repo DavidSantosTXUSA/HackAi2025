@@ -1,6 +1,6 @@
-If you wanna just jump straight into it download expo go on ios and click this link
+## If you wanna just jump straight into it download expo go on ios and click this link
 
-https://mindmates-mood-and-strength-adventure.rork.art
+# https://mindmates-mood-and-strength-adventure.rork.art
 
 Complete guide to set up and run the project in VSCode or any other development environment:
 
