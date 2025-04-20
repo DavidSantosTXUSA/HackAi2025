@@ -56,7 +56,7 @@ export default function HomeScreen() {
           {voiceRecordings.length > 0 && (
             <VoiceRecordingsList 
               title="Your Positive Affirmations"
-              showPositiveOnly={true}
+              //showPositiveOnly={true} un comment this if u want the voice memo to only be accessible when the user is happy/ appear after 1 check in
               limit={3}
             />
           )}
