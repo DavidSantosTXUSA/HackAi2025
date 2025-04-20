@@ -17,7 +17,7 @@ ThinkTopia is an interactive mobile app designed for users aged 7–27 to improv
 
 - Memory Match
 
- -Breath Pacer
+-Breath Pacer
 
 - Focus Flow
 
@@ -35,13 +35,13 @@ ThinkTopia is an interactive mobile app designed for users aged 7–27 to improv
 
 - App plays back previous supportive recordings when user selects Sad or Anxious!
 
-📊 Progress Tracking
+# 📊 Progress Tracking
 
 - Mental strength levels across categories
 
 - Streak counter and XP/achievements system
 
-👥 Social System Features! Friend tab with recommended friends based on:
+# 👥 Social System Features! Friend tab with recommended friends based on:
 
 - Name, Age, Personality, Hobbies, Music Taste, Emotional Needs, Learning Style
 
