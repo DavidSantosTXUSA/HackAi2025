@@ -3,6 +3,13 @@
 
 ThinkTopia is an interactive mobile app designed for users aged 7–27 to improve emotional intelligence, reduce stress, and foster personal growth—all while having fun. Combining educational psychology with modern gaming techniques, ThinkTopia delivers a gamified wellness experience that supports cognitive, emotional, and social well-being.
 
+## 👉 If you just wanna jump straight into it:
+1. Download **Expo Go** on iOS/Android
+2. Click this link on iphone to launch the app:  
+   **https://mindmates-mood-and-strength-adventure.rork.art**
+## Youtube demo! 
+**https://www.youtube.com/shorts/MbYdTGX4TBs**
+
 # 🧠 Features and 🎮 Core Gameplay
 - Daily Mood Tracker with AI journaling prompts (based on users age, interests, etc) and self recorded voice affirmations
 
