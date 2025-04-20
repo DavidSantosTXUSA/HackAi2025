@@ -32,8 +32,7 @@ export const generateFriendRecommendations = async (userData: any): Promise<Frie
       Format the response as a JSON array.
     `;
     
-    // If we had a real API key, we would make the actual API call here
-    // For now, we'll return mock data
+    // For now, we'll return mock data since there arent any actual live users to recommend, but in theory an LLM can be prompted to do this manually! 
     
     // Simulate API delay
     await new Promise(resolve => setTimeout(resolve, 2000));
@@ -155,6 +154,7 @@ const generateMockRecommendations = (userData: any): Friend[] => {
 };
 
 // Function to generate personalized journal prompts based on user data
+// You can change this prompt here to change how the jounral is generated! Right now it takes in the users data, and current mood to generate a custom jounrnal prompt! Unique to every user!
 export const generatePersonalizedPrompt = async (userData: any, currentMood?: any): Promise<string> => {
   try {
     const systemPrompt = `You are a thoughtful mental health assistant that creates personalized journal prompts. 
@@ -222,7 +222,6 @@ export const generatePersonalizedPrompt = async (userData: any, currentMood?: an
 export const generateText = async (prompt: string): Promise<string> => {
   try {
     // This is a placeholder for a real API call
-    // In a production app, you would use your actual API endpoint and key
     
     const response = await fetch('https://toolkit.rork.com/text/llm/', {
       method: 'POST',
@@ -250,5 +249,5 @@ export const generateText = async (prompt: string): Promise<string> => {
   }
 };
 
-// Import from journal-prompts.ts to use as fallback
+// Import from journal-prompts.ts to use as fallback so that way you can still run locally without a AI! 
 import { getRandomPrompt } from '@/constants/journal-prompts';
