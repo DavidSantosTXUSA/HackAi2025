@@ -219,7 +219,7 @@ export default function ProfileScreen() {
           <TouchableOpacity style={styles.menuItem}>
             <View style={styles.menuInfo}>
               <Info size={20} color={colors.text} />
-              <Text style={styles.menuText}>About MindMates</Text>
+              <Text style={styles.menuText}>About ThinkTopia</Text>
             </View>
           </TouchableOpacity>
         </View>
