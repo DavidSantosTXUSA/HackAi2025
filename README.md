@@ -10,6 +10,10 @@ ThinkTopia is an interactive mobile app designed for users aged 7–27 to improv
 ## Youtube demo! 
 **https://www.youtube.com/shorts/MbYdTGX4TBs**
 
+## DevPost!
+
+**https://devpost.com/software/track-1-35cahz?ref_content=my-projects-tab&ref_feature=my_projects**
+
 # 🧠 Features and 🎮 Core Gameplay
 - Daily Mood Tracker with AI journaling prompts (based on users age, interests, etc) and self recorded voice affirmations
 
